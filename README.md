@@ -1,5 +1,5 @@
 
-[![MasterHead](https://news.bitcoin.com/ethereums-vitalik-buterin-becomes-proud-parent-of-meme-famous-hippo-moo-deng/)](123)
+[![MasterHead](https://static.news.bitcoin.com/wp-content/uploads/2024/12/mooddd.png)](123)
 
 <h1 align="center">Hi 👋, I'm STEVE</h1>
 <h1 align="center">Crypto researcher</h1>
