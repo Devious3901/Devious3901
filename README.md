@@ -2,7 +2,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](123)
 
 <h1 align="center">Hi 👋, I'm STEVE</h1>
-<h2 align="center">Crypto researcher</h2>
+<h1 align="center">Crypto researcher</h1>
 
 # 💅 Connect with me:
 <p align="left">
